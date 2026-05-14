@@ -69,7 +69,7 @@ This repository provides code and tools to perform ArUco Marker Tracking using I
 1. Connect the RealSense D435 depth camera to your system.
 2. Run the ArUco Tracking software:
    ```bash
-   python aruco_tracking.py
+   python ArUcoDetector.py
    ```
 3. Adjust the camera setup to focus on the area with the ArUco markers.
 4. View the real-time tracking results displayed in the output window.
